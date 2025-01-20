@@ -1,0 +1,118 @@
+{
+    "video": [
+      {
+        "id": "1",
+        "titulo": "Introducción al Desarrollo Front-End",
+        "categoria": "FRONT END",
+        "img": "https://i.ytimg.com/vi/1Rs2ND1ryYc/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+        "descricao": "Aprende los fundamentos del desarrollo front-end, incluyendo HTML, CSS y JavaScript."
+      },
+      {
+        "id": "2",
+        "titulo": "Curso Completo de Desarrollo Back-End",
+        "categoria": "BACK END",
+        "img": "https://i.ytimg.com/vi/ENrzD9HAZK4/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=ENrzD9HAZK4",
+        "descricao": "Domina las tecnologías y prácticas esenciales para el desarrollo back-end."
+      },
+      {
+        "id": "3",
+        "titulo": "Desarrollo de Aplicaciones Móviles para Principiantes",
+        "categoria": "MOBILE",
+        "img": "https://i.ytimg.com/vi/f9s3YEuPGLk/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=f9s3YEuPGLk",
+        "descricao": "Guía paso a paso para crear aplicaciones móviles desde cero."
+      },
+      {
+        "id": "4",
+        "titulo": "Introducción a DevOps: Cultura y Prácticas",
+        "categoria": "DEVOPS",
+        "img": "https://i.ytimg.com/vi/9pZ2xmsSDdo/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=9pZ2xmsSDdo",
+        "descricao": "Conoce los principios fundamentales de DevOps y cómo implementarlos."
+      },
+      {
+        "id": "5",
+        "titulo": "Inteligencia Artificial: Conceptos Básicos",
+        "categoria": "IA",
+        "img": "https://i.ytimg.com/vi/2ePf9rue1Ao/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=2ePf9rue1Ao",
+        "descricao": "Introducción a los conceptos clave de la inteligencia artificial."
+      },
+      {
+        "id": "6",
+        "titulo": "Ciencia de Datos para Principiantes",
+        "categoria": "DATA SCIENCE",
+        "img": "https://i.ytimg.com/vi/ua-CiDNNj30/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=ua-CiDNNj30",
+        "descricao": "Aprende los fundamentos de la ciencia de datos y su aplicación."
+      },
+      {
+        "id": "7",
+        "titulo": "Ciberseguridad: Protegiendo la Información",
+        "categoria": "CYBERSECURITY",
+        "img": "https://i.ytimg.com/vi/1dJrHqZt7Cc/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=1dJrHqZt7Cc",
+        "descricao": "Conceptos esenciales para proteger datos y sistemas de información."
+      },
+      {
+        "id": "8",
+        "titulo": "Curso Avanzado de React para Front-End",
+        "categoria": "FRONT END",
+        "img": "https://i.ytimg.com/vi/4UZrsTqkcW4/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=4UZrsTqkcW4",
+        "descricao": "Profundiza en el desarrollo front-end utilizando React."
+      },
+      {
+        "id": "9",
+        "titulo": "Node.js y Express: Desarrollo Back-End",
+        "categoria": "BACK END",
+        "img": "https://i.ytimg.com/vi/Oe421EPjeBE/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=Oe421EPjeBE",
+        "descricao": "Construye aplicaciones back-end con Node.js y Express."
+      },
+      {
+        "id": "10",
+        "titulo": "Desarrollo de Apps Móviles con Flutter",
+        "categoria": "MOBILE",
+        "img": "https://i.ytimg.com/vi/x0uinJvhNxI/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=x0uinJvhNxI",
+        "descricao": "Crea aplicaciones móviles multiplataforma usando Flutter."
+      },
+      {
+        "id": "11",
+        "titulo": "Implementando CI/CD en DevOps",
+        "categoria": "DEVOPS",
+        "img": "https://i.ytimg.com/vi/scEDHsr3APg/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=scEDHsr3APg",
+        "descricao": "Aprende a implementar integración y entrega continua en DevOps."
+      },
+      {
+        "id": "12",
+        "titulo": "Redes Neuronales y Deep Learning",
+        "categoria": "IA",
+        "img": "https://i.ytimg.com/vi/aircAruvnKk/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=aircAruvnKk",
+        "descricao": "Introducción al funcionamiento de las redes neuronales profundas."
+      },
+      {
+        "id": "13",
+        "titulo": "Análisis de Datos con Python",
+        "categoria": "DATA SCIENCE",
+        "img": "https://i.ytimg.com/vi/r-uOLxNrNk8/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+        "descricao": "Utiliza Python para analizar y visualizar datos de manera efectiva."
+      },
+      {
+        "id": "14",
+        "titulo": "Seguridad en Aplicaciones Web",
+        "categoria": "CYBERSECURITY",
+        "img": "https://i.ytimg.com/vi/7Vtl2WggqOg/hqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=7Vtl2WggqOg",
+        "descricao": "Mejores prácticas para asegurar aplicaciones web contra amenazas."
+      }
+      ]
+    }
+   
+  
