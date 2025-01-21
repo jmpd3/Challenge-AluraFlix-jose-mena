@@ -11,7 +11,7 @@ export const CardContainer = styled.div`
 
   &:hover {
     transform: scale(1.05);
-    cursor: url(assets/mano.png), pointer;
+    cursor: url(src/assets/mano.png), pointer;
   }
 `;
 
@@ -36,7 +36,7 @@ export const IconButton = styled.button`
   color: #fff;
   cursor: pointer;
   font-size: 1.25rem;
-  cursor: url(/assets/mano.png), pointer;
+  cursor: url(src/assets/mano.png), pointer;
   &:hover {
     color: #2271d1;
   }

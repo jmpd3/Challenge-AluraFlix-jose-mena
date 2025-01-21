@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { NavLink } from "react-router-dom";
 
 export const LinkNav = styled(NavLink)`
-  cursor: url(/assets/mano.png), pointer;
+  cursor: url(src/assets/mano.png), pointer;
   &.active button {
     background: #000000e5;
     border: 0.125rem solid #2271d1;

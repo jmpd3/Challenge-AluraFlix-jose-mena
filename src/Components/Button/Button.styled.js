@@ -12,7 +12,7 @@ export const StyledButton = styled.button`
   border: 0.125rem solid #f5f5f5;
   border-radius: 0.9375rem;
   transition: all 0.3s ease;
-  cursor: url(/assets/mano.png), pointer;
+  cursor: url(/src/assets/mano.png), pointer;
 
 
   &.active {
