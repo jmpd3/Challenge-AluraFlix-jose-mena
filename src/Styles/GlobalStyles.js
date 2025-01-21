@@ -11,7 +11,7 @@ const GlobalStyles = createGlobalStyle`
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-    cursor: url(src/assets/raton.png), default;
+    cursor: url(/assets/raton.png), default;
     
     
   }
@@ -29,11 +29,11 @@ const GlobalStyles = createGlobalStyle`
   }
 button, a
 {
-  cursor: url(src/assets/mano.png), pointer;
+  cursor: url(/assets/mano.png), pointer;
 }
 input, textarea
 {
-  cursor: url(src/assets/texto.png), text;
+  cursor: url(/assets/texto.png), text;
 }
 
 `;
