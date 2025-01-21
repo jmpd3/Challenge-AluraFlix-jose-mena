@@ -1,4 +1,7 @@
 import { createGlobalStyle } from "styled-components";
+import mano from "../assets/mano.png";
+import raton from "../assets/raton.png";
+import texto from "../assets/texto.png";
 
 const GlobalStyles = createGlobalStyle`
 *, *::before, *::after {
@@ -11,7 +14,7 @@ const GlobalStyles = createGlobalStyle`
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-    cursor: url(src/assets/raton.png), default;
+    cursor: url(${raton}), default;
     
     
   }
@@ -29,11 +32,11 @@ const GlobalStyles = createGlobalStyle`
   }
 button, a
 {
-  cursor: url(src/assets/mano.png), pointer;
+  cursor: url(${mano}), pointer;
 }
 input, textarea
 {
-  cursor: url(src/assets/texto.png), text;
+  cursor: url(${texto}), text;
 }
 
 `;

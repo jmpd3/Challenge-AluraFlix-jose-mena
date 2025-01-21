@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import mano from "../../assets/mano.png";
 
 export const StyledButton = styled.button`
   width: 11.26rem;
@@ -12,7 +13,7 @@ export const StyledButton = styled.button`
   border: 0.125rem solid #f5f5f5;
   border-radius: 0.9375rem;
   transition: all 0.3s ease;
-  cursor: url(/src/assets/mano.png), pointer;
+  cursor: url(${mano}), pointer;
 
 
   &.active {

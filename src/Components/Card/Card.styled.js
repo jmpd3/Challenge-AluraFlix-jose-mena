@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import mano from "../../assets/mano.png";
 
 export const CardContainer = styled.div`
   position: relative;
@@ -11,7 +12,7 @@ export const CardContainer = styled.div`
 
   &:hover {
     transform: scale(1.05);
-    cursor: url(src/assets/mano.png), pointer;
+    cursor: url(${mano}), pointer;
   }
 `;
 
@@ -36,7 +37,7 @@ export const IconButton = styled.button`
   color: #fff;
   cursor: pointer;
   font-size: 1.25rem;
-  cursor: url(src/assets/mano.png), pointer;
+  cursor: url(${mano}), pointer;
   &:hover {
     color: #2271d1;
   }
