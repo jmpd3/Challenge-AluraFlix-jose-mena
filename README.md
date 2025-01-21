@@ -20,7 +20,7 @@ Aluraflix es una aplicación de catálogo de videos inspirada en Netflix, diseñ
 - **Axios**: Manejo de solicitudes HTTP.
 - **React Icons**: Iconos para botones de edición y eliminación.
 - **Styled-components**: Estilización de componentes.
-- **json-server**: Simulación de una API REST.
+- **MOCKAPI**: Simulación de una API REST para los videos.
 - **React Router**: Navegación en la aplicación
 
 ---
